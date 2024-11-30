@@ -58,16 +58,3 @@ Sync the repository, and Argo CD will automatically apply the changes to your cl
 
 ---
 
-## Screenshots
-To add screenshots:  
-1. Capture the relevant screenshots:
-   - **Argo CD UI Overview**
-   - **Cluster Configuration**
-   - **Sync Status**
-   - **Auto-Healing in Action**
-
-2. Add the images to the repository:
-   - Create a folder named `images` in the root directory of the repository.
-   - Place your screenshots in this folder.
-
-By following these steps, you can set up and manage your multi-cluster deployment using Argo CD efficiently.
