@@ -70,12 +70,4 @@ To add screenshots:
    - Create a folder named `images` in the root directory of the repository.
    - Place your screenshots in this folder.
 
-3. Reference the screenshots in your README:
-```markdown
-![Argo CD UI Overview](images/argo-ui-overview.png)
-![Cluster Configuration](images/cluster-configuration.png)
-![Sync Status](images/sync-status.png)
-![Auto-Healing in Action](images/auto-healing.png)
-```
-
 By following these steps, you can set up and manage your multi-cluster deployment using Argo CD efficiently.
