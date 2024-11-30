@@ -78,16 +78,4 @@ To add screenshots:
 ![Auto-Healing in Action](images/auto-healing.png)
 ```
 
----
-
-## Commands Summary
-
-| Action                           | Command                                             |
-|----------------------------------|-----------------------------------------------------|
-| Create a cluster                 | `eksctl create cluster --name <cluster-name> --region <region>` |
-| Check Argo CD pods status        | `kubectl get pods -n argocd`                        |
-| Edit Argo CD service to NodePort | `kubectl edit svc argocd-server -n argocd`          |
-
----
-
 By following these steps, you can set up and manage your multi-cluster deployment using Argo CD efficiently.
